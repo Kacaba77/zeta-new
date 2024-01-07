@@ -15,7 +15,7 @@ module.exports = {
   extends: ["plugin:prettier/recommended"],
   parser: "@typescript-eslint/parser",
   parserOptions: {
-    ecmaVersion: 12,
+    ecmaVersion: 122,
   },
   plugins: ["@typescript-eslint", "prettier", "simple-import-sort", "sort-keys-fix", "typescript-sort-keys"],
   rules: {
