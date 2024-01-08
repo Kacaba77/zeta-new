@@ -2,5 +2,5 @@
 artifacts
 cache
 coverage*
-gasReporterOutput.json
+gasReporterOutput
 node_modules
