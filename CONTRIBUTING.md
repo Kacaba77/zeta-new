@@ -8,7 +8,7 @@ There are many ways to contribute to ZetaChain, writing code is one of them. Oth
 
 ## Your first contribution
 
-First time contributing to Open Source? No worries, you can learn how to approach it from [this free video series](https://egghead.io/courses/how-to-contribute-to-an-open-source-project-on-github) or from [this guide](https://opensource.guide/how-to-contribute/) if you prefer reading.
+First time contributing to Open Source? No worries, you can learn how to approach it from  or from [this guide](https://opensource.guide/how-to-contribute/) if you prefer reading.
 
 ## Opening a Pull Request
 
