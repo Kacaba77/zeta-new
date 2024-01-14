@@ -1,6 +1,6 @@
 # Contributing to ZetaChain
 
-First, thank you! We really appreciate that you're considering contributing to ZetaChain.
+First, thank you! We really appreciate that you're considering contributing  to  ZetaChain.
 
 ## Ways to contribute
 
